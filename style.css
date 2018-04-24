@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+
+}
+
+.box {
+  border: 2px solid grey;
+  border-radius: 10px;
+  width: 350px;
+  height: 450px;
+  margin-left: 39%;
+  margin-top: 10%;
+}
+
+.header-box {
+  padding: 5px 15px;
+  border-bottom: 2px solid grey;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.form-box {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding:  5px 5px;
+}
