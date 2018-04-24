@@ -17,6 +17,14 @@
   students and grades for lab 06.</p>
 <br>
 <input type="submit">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Developed By Phillip Salazar</b></p>
 </form>
 </div>
 
